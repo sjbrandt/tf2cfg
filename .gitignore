@@ -5,3 +5,11 @@
 !.gitignore
 !custom/
 !overrides/
+
+# maps
+!tr_*.cfg
+!jump_*.cfg
+!cp_*.cfg
+!pl_*.cfg
+!pd_*.cfg
+!rd_*.cfg
